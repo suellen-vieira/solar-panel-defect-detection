@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Pichau/Documents/GitHub Portfolio/dl-knn-svm/notebooks/runs/mlflow/677678534301794409/624af18a6c41410392f0cd391362131e/artifacts
+end_time: 1753999651753
+entry_point_name: ''
+experiment_id: '677678534301794409'
+lifecycle_stage: active
+run_id: 624af18a6c41410392f0cd391362131e
+run_name: train4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753998911108
+status: 3
+tags: []
+user_id: Pichau
