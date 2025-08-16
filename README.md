@@ -1,0 +1,1 @@
+https://universe.roboflow.com/solar-panel-2d0l1/ww-solar-panel
